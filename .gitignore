@@ -1,0 +1,27 @@
+# --- PYTHON JUNK ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# --- JUPYTER & DATA ---
+.ipynb_checkpoints/
+.virtual_documents/
+# Uncomment the next line if you want to keep data files off GitHub
+ *.csv
+
+# --- IDEs & EDITORS ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- SYSTEM JUNK ---
+Thumbs.db
+Desktop.ini
+.DS_Store
