@@ -13,8 +13,8 @@ pip-delete-this-directory.txt
 .ipynb_checkpoints/
 .virtual_documents/
 # Uncomment the next line if you want to keep data files off GitHub
- *.csv
- *.db
+*.csv
+*.db
 
 # --- IDEs & EDITORS ---
 .vscode/
