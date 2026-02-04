@@ -14,6 +14,7 @@ pip-delete-this-directory.txt
 .virtual_documents/
 # Uncomment the next line if you want to keep data files off GitHub
  *.csv
+ *.db
 
 # --- IDEs & EDITORS ---
 .vscode/
